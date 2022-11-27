@@ -1,0 +1,45 @@
+{
+    "url_icon": "\/icons\/ubicacio.png",
+    "url_icon2": "\/icons\/ubicacio2.png",
+    "url_icon3": "\/icons\/ubicacio3.png",
+    "url_icon4": "\/icons\/ubicacio4.png",
+    "url_icon5": "\/icons\/ubicacio5.png",
+    "estacions_icon": "\/icons\/estacions.png",
+    "parametros_filtro": [],
+    "stations": [{
+    "id": "496",
+    "type": "BIKE",
+    "latitude": 41.404839,
+    "longitude": 2.17482,
+    "streetName": "C\/ PROVEN\u00c7A, 445",
+    "streetNumber": "",
+    "slots": 4,
+    "bikes": 9,
+    "type_bicing": 2,
+    "electrical_bikes": 0,
+    "mechanical_bikes": 4,
+    "status": 1,
+    "disponibilidad": 0,
+    "icon":"\/icons\/ubicacio-0.png",
+    "transition_start": "",
+    "transition_end": ""
+    }, {
+    "id": "424",
+    "type": "BIKE",
+    "latitude": 41.379632,
+    "longitude": 2.192662,
+    "streetName": "PG. MAR\u00cdTIM DE LA BARCELONETA",
+    "streetNumber": "",
+    "slots": 7,
+    "bikes": 20,
+    "type_bicing": 2,
+    "electrical_bikes": 1,
+    "mechanical_bikes": 19,
+    "status": 1,
+    "disponibilidad": 75,
+    "icon":"\/icons\/ubicacio-0.png",
+    "transition_start": "",
+    "transition_end": ""
+    }
+    ]
+    }
