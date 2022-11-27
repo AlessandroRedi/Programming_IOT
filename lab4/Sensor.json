@@ -1,0 +1,37 @@
+{
+    "temperatureValues": [
+        {
+        "bn": "Alessandro/sensor1/temperature",
+        "e": [
+        {
+        "n": "temperature",
+        "u": "Cel",
+        "t": 1234,
+        "v":22.5
+        }
+        ]
+    },{
+        "bn": "Alessandro/sensor1/humidity",
+        "e": [
+        {
+        "n": "humidity",
+        "u": "Hum",
+        "t": 1234,
+        "v":67
+        }
+        ]
+    },{
+        "bn": "Alessandro/sensor1/both",
+        "e": [
+        {
+        "n": "Temperature & humidity",
+        "u": "Cel & Hum",
+        "t": 1234,
+        "v1":22.5,
+        "v2":67
+        }
+        ]
+    }
+    ]
+}
+    
