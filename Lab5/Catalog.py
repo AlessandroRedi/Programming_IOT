@@ -86,4 +86,4 @@ if __name__ =="__main__":
     webService = GreenHouseCatalog()
     cherrypy.tree.mount(webService, '/', conf)
     cherrypy.engine.start()
-    cherrypy.engine.block()
+    cherrypy.engine.block() #difference from block to exit? where to use it?
